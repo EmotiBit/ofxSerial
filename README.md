@@ -1,5 +1,6 @@
 ofxSerial
 =========
+**Note: EmotiBit's fork fixes an issue where device was not detected on plug-in when using mac-os bigSur. See [PR: Fixes issue with macOS big-sur+ device information](https://github.com/EmotiBit/ofxSerial/pull/1) for more details.**
 
 Description
 -----------
